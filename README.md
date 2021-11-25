@@ -1,2 +1,2 @@
-# P.Chakresh1414.github.io
-RESUME
+# Chakresh1414.github.io
+Resume
